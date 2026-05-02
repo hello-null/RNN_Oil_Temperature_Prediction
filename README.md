@@ -1,3 +1,5 @@
+[English Version README](README_EN.md)
+
 # RNN 油温预测项目
 
 基于循环神经网络（RNN）的多元时间序列预测项目，使用前10个时间步的数据预测下一时刻的目标油温（OT）。
