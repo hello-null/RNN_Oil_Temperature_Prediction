@@ -1,4 +1,4 @@
-[English Version README](README_EN.md)
+**Languages:** [English](README_EN.md) | [中文](README_ZH.md)
 
 # RNN 油温预测项目
 
